@@ -35,9 +35,9 @@ A simple desktop music player created for the Software Design Patterns final gro
 
 | Member | Patterns |
 |--------|----------|
-| Student 1 | Facade and Builder |
-| Student 2 | Observer and Strategy |
-| Student 3 | Decorator and Visitor |
+| Zhumabay Aikyn | Facade and Builder |
+| Akzhigit | Observer and Strategy |
+| Seipenov Damir | Decorator and Visitor |
 
 Shared models, GUI and integration are developed collaboratively.
 
