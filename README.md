@@ -36,7 +36,7 @@ A simple desktop music player created for the Software Design Patterns final gro
 | Member | Patterns |
 |--------|----------|
 | Zhumabay Aikyn | Facade and Builder |
-| Akzhigit | Observer and Strategy |
+| Akzhigit Agabekov | Observer and Strategy |
 | Seipenov Damir | Decorator and Visitor |
 
 Shared models, GUI and integration are developed collaboratively.
